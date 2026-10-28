@@ -2,6 +2,12 @@
   <h1> 𝓖𝓪𝔃𝓲 𝓜. 𝓚𝓮𝓶𝓪𝓵 </h1>
 </div>
 
+##WARNING
+I forgot to run `npm build`. You can download the project, open a Command Prompt in the main folder, and run the command `npm i & npm run build` to get the output. I don’t think anyone using this project would need to know this, but we’re in the age of AI's, so we need to consider everyone. :)
+
+##UYARI
+`npm build` komutunu çalıştırmayı unutmuşum. Projeyi indirebilir, ana klasörde bir Komut İstemi açabilir ve `npm i & npm run dev` komutunu çalıştırarak çıktıyı alabilirsiniz. Bu projeyi kullanan kimsenin bunu bilmesi gerektiğini sanmıyorum, ancak yapay zeka çağındayız, bu yüzden herkesi dikkate almamız gerekiyor.
+
 # loriel-micro-waf
 
 A zero-dependency, in-memory rate limiter and micro-WAF for Next.js Server Actions and API Routes. 
