@@ -1,0 +1,17 @@
+{
+  "name": "loriel-next-waf",
+  "version": "1.0.0",
+  "description": "Zero-dependency in-memory rate limiter and Micro-WAF for Next.js Server Actions",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["nextjs", "waf", "rate-limit", "security", "server-actions"],
+  "author": "Bora Dogan",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
